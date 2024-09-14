@@ -1,5 +1,5 @@
 form{
-background-color: #2d700e56;
+background-color: rgba(7, 145, 60, 0.337);
 padding: 50px;
 border-width: 50px 20px ;
 border-style: solid;
@@ -11,7 +11,7 @@ color: rgb(212, 131, 10);
 }
 
 h1{
-    font-size: larger;
+    font-size: x-large;
     color: rgb(60, 13, 230);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -31,7 +31,7 @@ input[type="password"]
 }
 
 input[type="submit"]{
-    background-color: #fa0808;
+    background-color: red;
     color: white;
     padding: 10px 20px;
     border: none;
